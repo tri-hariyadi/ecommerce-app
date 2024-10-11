@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent">
+
+    <!-- Overlay to dim background when Bottom Sheet is shown -->
+    <View
+        android:id="@+id/overlay"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#66000000" /> <!-- Semi-transparent black -->
+
+    <!-- Bottom Sheet Container -->
+    <LinearLayout
+        android:id="@+id/bottom_sheet_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/bottom_sheet_background"
+        android:padding="16dp"
+        android:gravity="center"
+        android:layout_gravity="bottom">
+
+        <!-- Example Content Inside Bottom Sheet -->
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bottom Sheet Content"
+            android:textSize="18sp"
+            android:textColor="@android:color/black" />
+
+        <!-- Add your other contents here -->
+
+    </LinearLayout>
+
+</FrameLayout>
+
+<!--<androidx.coordinatorlayout.widget.CoordinatorLayout-->
+<!--    xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent">-->
+
+<!--    &lt;!&ndash; Overlay yang semi-transparent &ndash;&gt;-->
+<!--    <View-->
+<!--        android:id="@+id/overlay"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:background="#80000000"-->
+<!--        android:visibility="gone"/>-->
+
+<!--    &lt;!&ndash; Kontainer Bottom Sheet yang draggable &ndash;&gt;-->
+<!--    <LinearLayout-->
+<!--        android:id="@+id/bottom_sheet_container"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:orientation="vertical"-->
+<!--        android:background="@android:color/white"-->
+<!--        android:elevation="16dp"-->
+<!--        android:layout_gravity="bottom"-->
+<!--        android:padding="16dp">-->
+
+<!--        &lt;!&ndash; Konten di dalam Bottom Sheet &ndash;&gt;-->
+<!--        <TextView-->
+<!--            android:id="@+id/bottom_sheet_content"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="Ini adalah konten bottom sheet."-->
+<!--            android:textSize="16sp"-->
+<!--            android:gravity="center"/>-->
+
+<!--        &lt;!&ndash; Tombol Close &ndash;&gt;-->
+<!--        <Button-->
+<!--            android:id="@+id/button_close"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="Close Bottom Sheet"/>-->
+<!--    </LinearLayout>-->
+
+<!--</androidx.coordinatorlayout.widget.CoordinatorLayout>-->
