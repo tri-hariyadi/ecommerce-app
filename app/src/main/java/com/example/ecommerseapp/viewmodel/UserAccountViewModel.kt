@@ -6,7 +6,7 @@ import android.net.Uri
 import android.provider.MediaStore
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.ecommerseapp.KleineApplication
+import com.example.ecommerseapp.EcommerceApplication
 import com.example.ecommerseapp.data.User
 import com.example.ecommerseapp.util.RegisterValidation
 import com.example.ecommerseapp.util.Resource
@@ -89,7 +89,7 @@ class UserAccountViewModel @Inject constructor(
         viewModelScope.launch {
             try {
                 val imageBitmap = MediaStore.Images.Media.getBitmap(
-                    getApplication<KleineApplication>().contentResolver,
+                    getApplication<EcommerceApplication>().contentResolver,
                     imageUri
                 )
                 val byteArrayOutputStream = ByteArrayOutputStream()
