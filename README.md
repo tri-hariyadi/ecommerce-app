@@ -47,7 +47,8 @@ you can use this account if don't want to register!
 ### Introduction Page
    ![](https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/Screenshot%202024-10-11%20at%2013.43.41.png)
 ### Account Options
-   ![](https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/account_options.png)
+<img src="https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/account_options.png" height="300" />
+
 ### Register Page
    ![](https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/register.png)
 ### Login Page
