@@ -49,10 +49,10 @@ class LoginFragment : Fragment(R.layout.fragment_login) {
             }
 
             tvForgotPasswordLogin.setOnClickListener {
-//                setupBottomSheetDialog { email ->
-//                    viewModel.resetPassword(email)
-//                }
-                bottomSheet.show()
+                setupBottomSheetDialog { email ->
+                    viewModel.resetPassword(email)
+                }
+//                bottomSheet.show()
             }
 
             buttonLoginLogin.setOnClickListener {
