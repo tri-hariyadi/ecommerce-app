@@ -45,32 +45,32 @@ you can use this account if don't want to register!
 
 
 ### Introduction Page
-   ![](/Users/trihariyadi/Projects/Android/ECommerseApp/screenshot/Screenshot 2024-10-11 at 13.43.41.png)
+   ![](https://github.com/tri-hariyadi/ecommerce-app/tree/master/screenshot/Screenshot 2024-10-11 at 13.43.41.png)
 ### Account Options
-   ![](/Users/trihariyadi/Projects/Android/ECommerseApp/screenshot/account_options.png)
+   ![](https://github.com/tri-hariyadi/ecommerce-app/tree/master/screenshot/account_options.png)
 ### Register Page
-   ![](/Users/trihariyadi/Projects/Android/ECommerseApp/screenshot/register.png)
+   ![](https://github.com/tri-hariyadi/ecommerce-app/tree/master/screenshot/register.png)
 ### Login Page
-   ![](/Users/trihariyadi/Projects/Android/ECommerseApp/screenshot/login.png)
+   ![](https://github.com/tri-hariyadi/ecommerce-app/tree/master/screenshot/login.png)
 ### Forgot Password
-   ![](/Users/trihariyadi/Projects/Android/ECommerseApp/screenshot/forgot_password.png)
+   ![](https://github.com/tri-hariyadi/ecommerce-app/tree/master/screenshot/forgot_password.png)
 ### Home Page
-   ![](/Users/trihariyadi/Projects/Android/ECommerseApp/screenshot/home_page.png)
+   ![](https://github.com/tri-hariyadi/ecommerce-app/tree/master/screenshot/home_page.png)
 ### Detail Product
-   ![](/Users/trihariyadi/Projects/Android/ECommerseApp/screenshot/detail_product.png)
+   ![](https://github.com/tri-hariyadi/ecommerce-app/tree/master/screenshot/detail_product.png)
 ### Cart Page
-   ![](/Users/trihariyadi/Projects/Android/ECommerseApp/screenshot/cart.png)
+   ![](https://github.com/tri-hariyadi/ecommerce-app/tree/master/screenshot/cart.png)
 ### Checkout Page
-   ![](/Users/trihariyadi/Projects/Android/ECommerseApp/screenshot/checkout_page.png)
+   ![](https://github.com/tri-hariyadi/ecommerce-app/tree/master/screenshot/checkout_page.png)
 ### Add Shipping Address
-   ![](/Users/trihariyadi/Projects/Android/ECommerseApp/screenshot/add_address.png)
+   ![](https://github.com/tri-hariyadi/ecommerce-app/tree/master/screenshot/add_address.png)
 ### Profile Page
-   ![](/Users/trihariyadi/Projects/Android/ECommerseApp/screenshot/profile_page.png)
+   ![](https://github.com/tri-hariyadi/ecommerce-app/tree/master/screenshot/profile_page.png)
 ### List All Order
-   ![](/Users/trihariyadi/Projects/Android/ECommerseApp/screenshot/all_order_page.png)
+   ![](https://github.com/tri-hariyadi/ecommerce-app/tree/master/screenshot/all_order_page.png)
 ### Detail Order
-   ![](/Users/trihariyadi/Projects/Android/ECommerseApp/screenshot/detail_order.png)
+   ![](https://github.com/tri-hariyadi/ecommerce-app/tree/master/screenshot/detail_order.png)
 ### Update Or Delete Shipping Address
-   ![](/Users/trihariyadi/Projects/Android/ECommerseApp/screenshot/update_shipping_address.png)
+   ![](https://github.com/tri-hariyadi/ecommerce-app/tree/master/screenshot/update_shipping_address.png)
 ### Profile Page And Update Profile Page
-   ![](/Users/trihariyadi/Projects/Android/ECommerseApp/screenshot/update_profile_page.png)
+   ![](https://github.com/tri-hariyadi/ecommerce-app/tree/master/screenshot/update_profile_page.png)
