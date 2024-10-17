@@ -13,6 +13,7 @@ For further details, you can see the preview below!
     * [Login Page](#login-page)
     * [Forgot Password](#forgot-password)
     * [Home Page](#home-page)
+    * [Search Item Page](#search-item-page)
     * [Detail Product](#detail-product)
     * [Cart Page](#cart-page)
     * [Checkout Page](#checkout-page)
@@ -45,47 +46,50 @@ you can use this account if don't want to register!
 
 
 ### Introduction Page
-<img src="https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/Screenshot%202024-10-11%20at%2013.43.41.png" height="700" />
+<img src="https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/Screenshot%202024-10-11%20at%2013.43.41.png" height="600" />
 
 ### Account Options
-<img src="https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/account_options.png" height="700" />
+<img src="https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/account_options.png" height="600" />
 
 ### Register Page
-<img src="https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/register.png" height="700" />
+<img src="https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/register.png" height="600" />
 
 ### Login Page
-<img src="https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/login.png" height="700" />
+<img src="https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/login.png" height="600" />
 
 ### Forgot Password
-<img src="https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/forgot_password.png" height="700" />
+<img src="https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/forgot_password.png" height="600" />
 
 ### Home Page
-<img src="https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/home_page.png" height="700" />
+<img src="https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/home_page.png" height="600" />
+
+### Search Item Page
+<img src="https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/search_item_page.png" height="600" />
 
 ### Detail Product
-<img src="https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/detail_product.png" height="700" />
+<img src="https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/detail_product.png" height="600" />
 
 ### Cart Page
-<img src="https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/cart.png" height="700" />
+<img src="https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/cart.png" height="600" />
 
 ### Checkout Page
-<img src="https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/checkout_page.png" height="700" />
+<img src="https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/checkout_page.png" height="600" />
 
 ### Add Shipping Address
-<img src="https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/add_address.png" height="700" />
+<img src="https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/add_address.png" height="600" />
 
 ### Profile Page
-<img src="https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/profile_page.png" height="700" />
+<img src="https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/profile_page.png" height="600" />
 
 ### List All Order
-<img src="https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/all_order_page.png" height="700" />
+<img src="https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/all_order_page.png" height="600" />
 
 ### Detail Order
-<img src="https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/detail_order.png" height="700" />
+<img src="https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/detail_order.png" height="600" />
 
 ### Update Or Delete Shipping Address
-<img src="https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/update_shipping_address.png" height="700" />
+<img src="https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/update_shipping_address.png" height="600" />
 
 ### Profile Page And Update Profile Page
-<img src="https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/update_profile_page.png" height="700" />
+<img src="https://github.com/tri-hariyadi/ecommerce-app/blob/master/screenshot/update_profile_page.png" height="600" />
 
